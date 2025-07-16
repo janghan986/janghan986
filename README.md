@@ -1,6 +1,7 @@
 # janghan986
-
-## 게임 좋아함
+janghan986
+## 소개
+게임
 
 ```py
 print("Hello, GitHub!")
@@ -13,3 +14,4 @@ print("Hello, GitHub!")
 ```py
 print("Hello, GitHub!")
 ```
+![project](.113049.png)
