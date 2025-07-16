@@ -14,4 +14,4 @@ print("Hello, GitHub!")
 ```py
 print("Hello, GitHub!")
 ```
-![project](.113049.png)
+![project](./113049.png)
